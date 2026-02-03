@@ -1,0 +1,6 @@
+if SHIELD_SCOTTO34
+
+config ZMK_KEYBOARD_NAME
+  default "scotto34"
+
+endif
